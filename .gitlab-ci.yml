@@ -19,6 +19,7 @@ maven-build:
             - target/*.war
 
 maven-deploy:
+	image: 
 	stage: deploy
 	script: 
 		- curl -T "target\mavenproject1-1.0-SNAPSHOT.war" "http://admin:queseyo@192.168.1.105:8080/manager/text/deploy?path=/maven&update=true"
