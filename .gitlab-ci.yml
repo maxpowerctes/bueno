@@ -1,0 +1,24 @@
+image: virtualbox:latest
+
+variables:
+    SPRING_PROFILES_ACTIVE: gitlab-ci
+    GITLAB_PROYECT: mi-proyecto
+    GITLAB_USER: maxpowerctes
+    GITLAB_IMAIL: adrianq_yo2@hotmail.com
+    
+stages:
+	- build
+	- deploy
+    
+maven-build:
+    image: maven:3-jdk-8
+    stage: build
+    script: "mvn package -B"
+    artifacts:
+        paths:
+            - target/*.war
+
+maven-deploy:
+	stage: deploy
+	script: 
+		- curl -T "target\mavenproject1-1.0-SNAPSHOT.war" "http://admin:queseyo@192.168.1.105:8080/manager/text/deploy?path=/maven&update=true"
