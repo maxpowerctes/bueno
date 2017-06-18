@@ -86,4 +86,12 @@
 	  </plugin>
     </plugins>
   </build>
+
+ <scm>
+    <url>https://github.com/maxpowerctes/bueno</url>
+    <connection>scm:git:ssh://git@github.com/maxpowerctes/bueno.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/maxpowerctes/bueno.git</developerConnection>
+    <tag>HEAD</tag>   
+  </scm>	
+	
 </project>
