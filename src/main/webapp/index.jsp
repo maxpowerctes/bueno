@@ -5,7 +5,8 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+       <link rel="shortcut icon" href="http://myhealthybitesblog.com/wp-content/uploads/2016/09/cropped-favicon.png">
+        <title>Algun titulo</title>
     </head>
     <body>
         <h1>hola grupo lolo!</h1>
