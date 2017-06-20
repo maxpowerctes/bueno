@@ -6,9 +6,9 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
        <link rel="shortcut icon" href="http://myhealthybitesblog.com/wp-content/uploads/2016/09/cropped-favicon.png">
-        <title>Algun titulo</title>
+        <title>Integracion Continua</title>
     </head>
     <body>
-        <h1>hola grupo lolo!</h1>
+        <h1>Espero que...</h1>
     </body>
 </html>
