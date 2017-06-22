@@ -10,6 +10,6 @@
     </head>
     <body>
         <h1>Error.......no se encuentra la pagina</h1>
-       <h1>Me dicen antorcha</h1>
+       <h1>Espero que ande</h1>
     </body>
 </html>
