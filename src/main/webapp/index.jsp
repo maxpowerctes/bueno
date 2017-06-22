@@ -9,7 +9,7 @@
         <title>Integracion Continua</title>
     </head>
     <body>
-        <h1>Espero que...</h1>
+        <h1>Error...  no se encuentra la pagina</h1>
        <h1>Me dicen antorcha</h1>
     </body>
 </html>
