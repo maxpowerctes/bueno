@@ -10,6 +10,6 @@
     </head>
     <body>
         <h1>Error.......no se encuentra la pagina</h1>
-       <h1>Veamos ahora</h1>
+       <h1>Ahora si</h1>
     </body>
 </html>
