@@ -17,7 +17,7 @@ import static org.junit.Assert.*;
  * @author nacho
  */
 public class mavenTest {
-    0=2
+    
     public mavenTest() {
     }
     
